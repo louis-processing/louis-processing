@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with programming languages like Python, Typescript and Dart!
 - 💬 Ask me about anything related to finance and economics. I study all kinds of economic theories, from Keynesian to Austrian Economics. I am also a big proponent in teaching personal finance in high schools. Leaning to budget, save, manage debt and investing money in a diverse range of assets is essential to survival! Also, XQQ to the Moon! 
 - 📫 How to reach me: You can reach me on linkedin, gmail or devpost!
-Gmail: vip1ooocanada@gmail.com
-Linkedin: https://www.linkedin.com/in/louis-li-2b4682203/
-Devpost: https://devpost.com/vip1ooocanada?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+  - Linkedin: https://www.linkedin.com/in/louis-li-2b4682203/
+  - Devpost: https://devpost.com/vip1ooocanada?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like to play basketball in my spare time!
